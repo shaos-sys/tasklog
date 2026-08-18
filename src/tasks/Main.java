@@ -50,6 +50,11 @@ public class Main {
                     break;
 
                 case 4:
+                 listatask.gerarArquivo();   
+                 
+                 menu.exibirMenu();
+                  opcao = scanner.nextInt();
+                   scanner.nextLine();
 
                     break;
 
